@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import ThemeToggle from './ThemeToggle';
+// import ThemeToggle from './ThemeToggle';
 
 export default function Header() {
   return (
@@ -14,7 +14,7 @@ export default function Header() {
         </nav>
         <div className="flex items-center space-x-3">
           {/* Placeholder for SearchBar and AdsSlot */}
-          <ThemeToggle />
+          {/* <ThemeToggle /> */}
         </div>
       </div>
     </header>
