@@ -1,0 +1,25 @@
+{
+  "name": "lokalinfo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "firebase": "latest",
+    "react-firebase-hooks": "latest",
+    "react-toastify": "latest",
+    "framer-motion": "latest",
+    "react-loading-skeleton": "latest",
+    "next-pwa": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  }
+}
